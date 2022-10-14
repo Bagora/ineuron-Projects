@@ -1,2 +1,2 @@
 # ineuron-Projects
-#All Python Basics Assignments are here
+#All Projects and Assignments Directory For FSDS Bootcamp 2.0
